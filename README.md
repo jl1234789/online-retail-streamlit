@@ -26,5 +26,5 @@
 
 ---
 
-![RFM分析可视化截图](README/截屏2025-07-30 20.44.40.png)
-![RFM分析可视化截图](README/截屏2025-07-30 20.44.52.png)
+![RFM分析可视化截图](online-retail-streamlit/README/截屏2025-07-30 20.44.40.png)
+![RFM分析可视化截图](online-retail-streamlit/README/截屏2025-07-30 20.44.52.png)
