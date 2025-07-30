@@ -27,7 +27,7 @@
 ---
 
 <!-- 图片1 -->
-![图1: 数据分布可视化](online-retail-streamlit/README/截屏2025-07-30 20.44.40.png)
+![图1: 数据分布可视化](./README/截屏2025-07-30 20.44.40.png)
 
 <!-- 图片2 -->
-![图2: RFM分析结果](online-retail-streamlit/README/截屏2025-07-30 20.44.52.png)
+![图2: RFM分析结果](./README/截屏2025-07-30 20.44.52.png)
