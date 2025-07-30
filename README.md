@@ -35,3 +35,7 @@
 ## 使用说明
    pip install -r requirements.txt
    streamlit run app.py
+
+
+<img src="./README/截屏2025-07-30 20.44.40.png" alt="数据分布可视化" width="600">
+<img src="./README/截屏2025-07-30 20.44.52.png" alt="RFM分析结果" width="600">
